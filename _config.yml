@@ -1,0 +1,56 @@
+# Site settings
+title: "Christopher Haupt's Resume"
+description: "A resume for English teacher Chris Haupt"
+
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Resume settings
+resume_avatar:                  "true"
+resume_name:                    "Christopher Haupt"
+resume_title:                   "English Teacher"
+resume_contact_email:           "chris.james.haupt@gmail.com"
+resume_contact_telephone:       "+447544095789"
+resume_contact_address:         "Launceston, United Kingdom"
+resume_header_contact_info: "UK +447544094789 | CN +8615158197693 | chris.james.haupt@gmail.com"
+resume_header_intro: "<p>I am extremely friendly, professional, positive and hard-working. I very much enjoy working as part of a team and have made friends in all of my previous roles. I am dedicated to both learning and teaching and enjoy both to such an extent that the lines between work and play seem blurred. I have gained a CELTA qualification to learn to teach English to the best of my ability and have two years of teaching experience. In my short time as a teacher I have learned a lot by always being curious and always paying attention. I am confident in my ability to deliver lessons that are as entertaining as they are informative.
+</p>"
+
+# use "yes" to display the email contact button,
+# "no" to display an "I'm not looking for work" message,
+# or remove the resume_looking_for_work option entirely
+# to leave blank
+resume_looking_for_work:        "no"
+
+# Decide which sections to use
+# comment out to hide
+resume_section_experience:      true
+resume_section_education:       true
+#resume_section_projects:        true
+resume_section_skills:          true
+#resume_section_recognition:     true
+resume_section_links:           true
+#resume_section_associations:    true
+resume_section_interests:       true
+
+# Resume social links
+# uncomment the options you wish to display, and add your own URL
+resume_social_links:
+ resume_github_url:            "https://erasebegin.github.com/"
+  #resume_twitter_url:           "http://twitter.com/jglovier"
+  #resume_dribbble_url:          "https://dribbble.com/jag"
+ resume_facebook_url:          "https://www.facebook.com/EraseBegin"
+ resume_linkedin_url:          "https://www.linkedin.com/in/chris-haupt-25576a5b"
+ resume_instagram_url:         "https://www.instagram.com/christhaupt/"
+ resume_website_url:           "http://erasebegin.github.io/waithink2"
+resume_print_social_links:      true
+
+# Design settings
+resume_theme:                   default
+
+# Note: when editing locally, remember to restart
+# your Jekyll server when you edit this file. Changes
+# to _config.yml are only recognized when the server starts

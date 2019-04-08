@@ -42,10 +42,10 @@ resume_social_links:
  resume_github_url:            "https://erasebegin.github.com/"
   #resume_twitter_url:           "http://twitter.com/jglovier"
   #resume_dribbble_url:          "https://dribbble.com/jag"
- resume_facebook_url:          "https://www.facebook.com/EraseBegin"
+  #resume_facebook_url:          "https://www.facebook.com/EraseBegin"
  resume_linkedin_url:          "https://www.linkedin.com/in/chris-haupt-25576a5b"
- resume_instagram_url:         "https://www.instagram.com/christhaupt/"
- resume_website_url:           "http://erasebegin.github.io/waithink2"
+  #resume_instagram_url:         "https://www.instagram.com/christhaupt/"
+ resume_website_url:           "http://erasebegin.github.io/thinkdrops"
 resume_print_social_links:      true
 
 # Design settings

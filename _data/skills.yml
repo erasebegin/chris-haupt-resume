@@ -1,11 +1,13 @@
 # Skills
 # Computers and IT
 - skill: Computers and IT
-  description: I have a broad range of technical skills that allow me to use computers with an advanced proficiency. All of my work is backed up regularly and I am able to use creative tools such as Powerpoint, video editors and audio editing software to create professional-standard products. I often erase my entire operating system and install a different one because I think it's fun. Hence my online handle 'erasebegin'.
-
+  description: I have a broad range of technical skills that allow me to use computers with an advanced proficiency. All of my work is backed up regularly and I am able to use creative tools such as Powerpoint, video editors and audio editing software to create professional-standard products. I am also a hobbyist programmer and am able to make simple web application using front-end languages alongside javascript. This is sometimes useful for making tools to use in the classroom.
 # Writing
 - skill: Writing
   description: I can always be seen jotting down sudden bolts of insight as my mind wanders to the realms of philosophy and beyond. I take language seriously and writing is my favourite way to express myself. I studied English at university because my friends and relatives always told me that my literacy skills were strong.
+# Illustration
+- skill: Illustration
+  description: A very recently adopted hobby, I have found a love for drawing in the last few years. I have completed a 3 month online illustration course which allows me to produce quite professional looking products that have sometimes been very useful in the classroom. You can view [my portfolio here](erasebegin.github.io/thinkdrops) including [a short story](erasebegin.github.io/thinkdrops/2019/02/28/sarah) that I created to help students understand adverbs of frequency.
 
 # Teaching
 - skill: Teaching

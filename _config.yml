@@ -1,6 +1,6 @@
 # Site settings
 title: "Christopher Haupt's Resume"
-description: "A resume for English teacher Chris Haupt"
+description: "A resume for Christopher Haupt"
 
 # Build settings
 markdown: kramdown
@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Christopher Haupt"
-resume_title:                   "Teacher"
+resume_title:                   "Administrator and IT Professional"
 resume_contact_email:           "chris.james.haupt@gmail.com"
 resume_contact_telephone:       "+447544095789"
 resume_contact_address:         "Launceston, United Kingdom"
@@ -39,13 +39,13 @@ resume_section_interests:       true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
- resume_github_url:            "https://erasebegin.github.com/"
+ resume_github_url:            "https://github.com/erasebegin"
   #resume_twitter_url:           "http://twitter.com/jglovier"
   #resume_dribbble_url:          "https://dribbble.com/jag"
   #resume_facebook_url:          "https://www.facebook.com/EraseBegin"
- resume_linkedin_url:          "https://www.linkedin.com/in/chris-haupt-25576a5b"
+ resume_linkedin_url:          "https://www.linkedin.com/in/chris-haupt"
   #resume_instagram_url:         "https://www.instagram.com/christhaupt/"
- resume_website_url:           "http://erasebegin.github.io/thinkdrops"
+ #resume_website_url:           "http://erasebegin.github.io/thinkdrops"
 resume_print_social_links:      true
 
 # Design settings

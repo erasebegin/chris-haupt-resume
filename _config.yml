@@ -13,11 +13,10 @@ resume_avatar:                  "true"
 resume_name:                    "Christopher Haupt"
 resume_title:                   "Administrator and IT Professional"
 resume_contact_email:           "chris.james.haupt@gmail.com"
-resume_contact_telephone:       "+447544095789"
-resume_contact_address:         "Launceston, United Kingdom"
+resume_contact_telephone:       "+447539830834"
+resume_contact_address:         "Basel, Switzerland"
 resume_header_contact_info: "UK +447544094789 | CN +8615158197693 | chris.james.haupt@gmail.com"
-resume_header_intro: "<p>I am passionate, professional, positive and hard-working. I very much enjoy working as part of a team and have made friends in all of my previous roles. I am dedicated to both learning and teaching and enjoy both to such an extent that the lines between work and play often seem blurred. I have gained a CELTA qualification to learn to teach English to the best of my ability and have three years of teaching experience. In my short time as a teacher I have learned a great deal by always being curious and always paying attention. As a result I am confident in my ability to deliver lessons that are as entertaining as they are informative.
-</p>"
+resume_header_intro: "<p>After graduating university in 2015 I earned a CELTA qualification and accepted a job to teach English in China. The scope of my work since then has included much more than planning and giving English classes. I have at various times also taught PE, Science, Drama, UOI and Film Studies. In this time I have developed several core competencies that are vital to any industry: <ul><li>Media production</li><li>Giving presentations</li><li>Mediating disputes (parent/teacher and management/employee)</li><li>Generating reports</li><li>Coping under pressure</li><li>Working to deadlines</li><li>Teamwork/collaboration</li><li>Project management</li><li>Profficiency with a variety of essential applications</li></ul> I look forward to putting these skills to use in achieving the goals of your company.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -39,13 +38,13 @@ resume_section_interests:       true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
- resume_github_url:            "https://github.com/erasebegin"
+resume_github_url:            "https://github.com/erasebegin"
   #resume_twitter_url:           "http://twitter.com/jglovier"
   #resume_dribbble_url:          "https://dribbble.com/jag"
   #resume_facebook_url:          "https://www.facebook.com/EraseBegin"
- resume_linkedin_url:          "https://www.linkedin.com/in/chris-haupt"
+resume_linkedin_url:          "https://www.linkedin.com/in/chris-haupt"
   #resume_instagram_url:         "https://www.instagram.com/christhaupt/"
- #resume_website_url:           "http://erasebegin.github.io/thinkdrops"
+resume_website_url:           "http://erasebegin.github.io/necessary-products"
 resume_print_social_links:      true
 
 # Design settings
